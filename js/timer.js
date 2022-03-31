@@ -3,7 +3,7 @@ let star = document.getElementById("star");
 let coin = document.getElementById("coin");
 let ticket = document.getElementById("ticket");
 
-let time = 1195;
+let time = 0;
 let timer;
 
 let balance = {
