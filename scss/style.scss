@@ -1,0 +1,15 @@
+body {
+    max-width: 1240px;
+    margin: 0 auto 0 auto;
+    padding: 2px;
+}
+
+.comtreiner {
+    margin: 100px 0;
+}
+
+.bonus__text::before {
+    content: "x";
+    font-size: 1.2rem;
+}
+
